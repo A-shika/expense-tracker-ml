@@ -1,0 +1,9 @@
+date,description,Amount,category
+2025-06-24,milk,50.0,food
+2025-06-24,electricity bill,500.0,utilities
+2025-06-24,books,500.0,education
+2025-06-24,uber,500.0,transportation
+2025-06-24,auto,50.0,transportation
+2025-06-24,recharge,50.0,utilities
+2025-06-24,doctor visit,50.0,health
+2025-06-24,hospital bill,500.0,health
