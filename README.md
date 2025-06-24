@@ -45,3 +45,21 @@ expense-tracker-ml/
 │   └── expense.csv          # Stored expenses
 ├── requirements.txt         # Python dependencies
 └── README.md                # Project documentation
+```
+
+---
+## 📸 Screenshots
+
+### 🧾 Add Expense  
+![Add](assets/AddExpense.png)
+
+### 📊 Visual History  
+![History](assets/ExpenseHistory.png)
+
+### ✏️ Edit Predicted Category  
+![Edit](assets/EditCategory.png)
+
+### 💰 Spending Summary  
+![Total](assets/TotalSummary.png)
+
+---
